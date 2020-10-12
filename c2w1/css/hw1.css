@@ -1,0 +1,22 @@
+header{
+    display: block;
+    background-color: #ad9797;
+    color: white;
+}
+header h1{
+    text-align: center;
+}
+nav a{
+    background-color: wheat;
+    color: #000000;
+}
+.left{
+    display: none;
+}
+
+.right{
+    background-color: teal;
+}
+.right h2{
+    color: blue;
+}
